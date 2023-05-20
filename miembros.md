@@ -1,6 +1,6 @@
 ## Miembros
 
-* Flash
+* Flash Reverso
 * Black panther
 * Black Widow
 * Capitán America
